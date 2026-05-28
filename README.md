@@ -1,18 +1,25 @@
-## Getting Started
+📚 Aprendendo Java - Bootcamp Santander
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório foi criado com o objetivo de registrar minha evolução durante o Bootcamp Santander, no qual estou desenvolvendo habilidades em programação utilizando a linguagem Java.
 
-## Folder Structure
+🚀 Sobre o projeto
 
-The workspace contains two folders by default, where:
+Ao longo deste bootcamp, estou praticando conceitos fundamentais de desenvolvimento, por meio da resolução de exercícios que envolvem:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Entrada e saída de dados
+Estruturas condicionais
+Operações matemáticas
+Lógica de programação
+Boas práticas iniciais em Java
+💡 Objetivo
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O principal objetivo deste repositório é consolidar o aprendizado na linguagem Java, aplicando conceitos teóricos em atividades práticas, além de construir uma base sólida para evolução na área de desenvolvimento de software.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+🛠️ Tecnologias utilizadas
+Java
+Git e GitHub
+📈 Progresso
 
-## Dependency Management
+Este repositório será atualizado continuamente conforme avanço no bootcamp, incluindo novos exercícios e melhorias nos códigos já desenvolvidos.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+📌 Este projeto faz parte do meu processo de formação como desenvolvedor e representa minha dedicação ao aprendizado contínuo na área de tecnologia.
